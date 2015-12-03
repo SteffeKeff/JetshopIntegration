@@ -26,3 +26,31 @@ c:\users\maildirect\documents\visual studio 2015\Projects\JetshopIntegration\Jet
 c:\users\maildirect\documents\visual studio 2015\Projects\JetshopIntegration\JetshopIntegration\obj\Debug\JetshopIntegration.csprojResolveAssemblyReference.cache
 c:\users\maildirect\documents\visual studio 2015\Projects\JetshopIntegration\JetshopIntegration\obj\Debug\JetshopIntegration.dll
 c:\users\maildirect\documents\visual studio 2015\Projects\JetshopIntegration\JetshopIntegration\obj\Debug\JetshopIntegration.pdb
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\roslyn\csc.exe
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\roslyn\vbc.exe
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\JetshopIntegration.dll.config
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\JetshopIntegration.dll
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\JetshopIntegration.pdb
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\Newtonsoft.Json.dll
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\System.Net.Http.Formatting.dll
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\System.Web.Http.dll
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\System.Web.Http.WebHost.dll
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\Newtonsoft.Json.xml
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\System.Net.Http.Formatting.xml
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\System.Web.Http.xml
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\bin\System.Web.Http.WebHost.xml
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\obj\Debug\JetshopIntegration.csprojResolveAssemblyReference.cache
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\obj\Debug\JetshopIntegration.dll
+C:\Users\Ungapped\Documents\GitHub\Jetshop-Integration\JetshopIntegration\JetshopIntegration\obj\Debug\JetshopIntegration.pdb
