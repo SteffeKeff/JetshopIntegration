@@ -6,16 +6,29 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
+
+            //
+            // JetshopCredentials.cs i "Models"-mappen är ONÖDIG just nu...
+            //
+
+
 namespace JetshopIntegration.Controllers
 {
     [RoutePrefix("Jetshop")]
-    public class CrmApiController : ApiController
+    public class JetshopController : ApiController
     {
-        [Route("Validate")]
+        [Route("Products")]
         [HttpGet]
-        public IHttpActionResult ValidateCredentials()
+        public IHttpActionResult GetProducts([FromUri] string domain)
         {
-            return Ok("Works");
+            string URL = $"http://{domain}/Services/Rest/v1/json/products";
+            var json = "";
+            using (WebClient wc = new WebClient())
+            {
+                json = wc.DownloadString(URL);
+            }
+
+            return Ok(json);
             //try
             //{
             //    crmService = new CrmService(credentials);
